@@ -1,7 +1,7 @@
 public class ProjecteDamCompartit {
 
     static void main() {
-        System.out.println("prova parells s.jorda j.diego");
+        System.out.println("hola parells s.jorda j.diego");
     }
 
 }
